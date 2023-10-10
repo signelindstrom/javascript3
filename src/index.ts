@@ -5,7 +5,7 @@ import * as express from 'express';
 import helmet from 'helmet';
 import * as cors from 'cors';
 import * as compression from 'compression';
-import { log } from 'winston';
+// import { log } from 'winston';
 
 const app = express();
 const hostname = process.env.NODE_HOSTNAME;
