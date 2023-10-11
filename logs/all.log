@@ -1,0 +1,5 @@
+{"level":"info","message":"[EXPRESS] Server running at http://127.0.0.1:3000","service":"AUTH","timestamp":"2023-10-11 11:20:50"}
+{"level":"info","message":"[EXPRESS] path: /, req:GET, ip: 127.0.0.1","service":"AUTH","timestamp":"2023-10-11 11:21:07"}
+{"level":"info","message":"[EXPRESS] Server running at http://127.0.0.1:3000","service":"AUTH","timestamp":"2023-10-11 11:52:21"}
+{"level":"info","message":"[EXPRESS] Server running at http://127.0.0.1:3000","service":"AUTH","timestamp":"2023-10-11 11:52:24"}
+{"level":"info","message":"[EXPRESS] Server running at http://127.0.0.1:3000","service":"AUTH","timestamp":"2023-10-11 11:56:17"}
